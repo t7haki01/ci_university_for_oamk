@@ -1,0 +1,31 @@
+
+table#Edit_course
+{
+  table-layout: fixed;
+  width:300px;
+}
+
+
+table#Edit_course, td
+{
+    white-space: nowrap;
+    overflow: ;
+    width: 300px;
+    height: 25px;
+}
+
+div.scroll_for_student
+{
+    width: 300px;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+    overflow: scroll;
+}
+
+div.course_student
+{
+  font-style: oblique;
+  font-weight: bold;
+  color: brown;
+}
