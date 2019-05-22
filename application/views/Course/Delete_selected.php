@@ -15,5 +15,5 @@
     </tr>
 </table>
 
-<a href="<?php echo site_url('Course/delete_course/').$idCourse;?>"><button class="btn btn-danger">Delete</button></a>
-<a href="<?php echo site_url('Course/show_courses/');?>"><button class="btn btn-primary">Cancel</button></a>
+<a href="<?php echo site_url('course/delete_course/').$idCourse;?>"><button class="btn btn-danger">Delete</button></a>
+<a href="<?php echo site_url('course/show_courses/');?>"><button class="btn btn-primary">Cancel</button></a>
